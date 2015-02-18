@@ -7,6 +7,3 @@ This is to start learning how GitHub works.
 Changes made locally on PC.
 
 And another local change ....
-
-
-Something to be rolled back.
